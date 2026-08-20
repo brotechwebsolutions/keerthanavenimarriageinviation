@@ -22,7 +22,7 @@ export default function Footer() {
           మా అక్క పెళ్లికి తప్పకుండా రండి
         </p>
         <p className="font-body text-sm text-maroon/70 mb-3">
-          – Ajith Patel, Revanth, Karthik, Kushi, Mahira &amp; Yeswanth
+          – {weddingConfig.invitedBy}
         </p>
         <p className="font-body text-sm text-maroon/80 max-w-md mx-auto flex items-center justify-center gap-1">
           {t.blessing} <Heart size={14} className="text-maroon fill-maroon" />
