@@ -31,6 +31,9 @@ weddingDateISO: "2026-08-27T11:07:00",
 
   invocation: "|| శ్రీ గణేశాయ నమః ||",
 
+  // Names shown under the "మా అక్క పెళ్లికి తప్పకుండా రండి" line in the footer
+  invitedBy: "Ajith Patel, Revanth, Karthik, Kushi, Mahira & Yeswanth",
+
   events: [
     {
       nameEn: "Engagement",
